@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+
+h1{
+    color: rgb(234, 97, 120);
+    text-align: center;
+}
+
+p{
+    font-size: 18px;
+}
+
+.highlight{
+    background-color: pink;
+}
+
+img{
+    border: 1px solid rgb(202, 65, 88);
+}
+
+.box{
+    width: 400px;
+    margin: 20px;
+    padding: 25px;
+    border: 10px solid rgb(228, 96, 228);
+}
